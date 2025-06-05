@@ -143,7 +143,7 @@ export const PROJECTS = [
       'Collaborated with UI/UX designers to ensure mobile responsiveness and usability.',
     ],
     technologies: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT'],
-    imageUrl: './assets/ExerciseTracker-image.png',
+    imageUrl: './ExerciseTracker-image.png',
     repoLink: 'https://github.com/Hemachandran53/Exercise-Tracker-App'
   },
   {
@@ -158,7 +158,7 @@ export const PROJECTS = [
       'Incorporated validation and error handling, reducing input-related issues by 95%.',
     ],
     technologies: ['React.js', 'Express.js', 'MongoDB', 'RESTful APIs', 'React Router'],
-    imageUrl: './assets/Crud-image.png',
+    imageUrl: './Crud-image.png',
   },
   {
     id: 'proj3',
@@ -171,7 +171,7 @@ export const PROJECTS = [
       'Achieved 92% accuracy and helped reduce maintenance costs by 30% through proactive insights.',
     ],
     technologies: ['TensorFlow', 'Python', 'Machine Learning', 'Data Analytics'],
-    imageUrl: './assets/Ev-image.png',
+    imageUrl: './Ev-image.png',
   },
 ];
 
